@@ -1,15 +1,15 @@
 dm_user = "SYSDBA"
-dm_pwds = "SYSDBA"
+dm_pwds = "***"
 dm_host = "LOCALHOST"
 dm_port = 5236
 dm_db = "CIC"
 dm_table = "model_list"
 dm_res_table = "ONLINE_TEST_RES"
 
-CIC_dfm = "/home/zhouchenghao/Traffic/CICFlowMeter-master/build/distributions/CICFlowMeter-4.0/bin/cfm"
+CIC_dfm = "/CICFlowMeter-master/build/distributions/CICFlowMeter-4.0/bin/cfm"
 
-protocol_model_path = 'D:/zch/laboratory/2022-3-加密流量/对接版程序/对接内容/AI/protocol_model'
-protocol_csv_path = 'D:/zch/laboratory/2022-3-加密流量/对接版程序/对接内容/AI/protocol_csv'
+protocol_model_path = '/AI/protocol_model'
+protocol_csv_path = '/AI/protocol_csv'
 
 Abnormal_Label_chinese_dict = {
     '0': '正常',
