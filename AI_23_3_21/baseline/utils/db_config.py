@@ -1,5 +1,5 @@
 dm_user = "SYSDBA"
-dm_pwds = "SYSDBA"
+dm_pwds = "***"
 dm_host = "LOCALHOST"
 dm_port = 5236
 dm_db = "CIC"
